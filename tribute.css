@@ -1,0 +1,83 @@
+html {
+    font-size: 10px;
+    background: url(https://images.unsplash.com/photo-1471877325906-aee7c2240b5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80) no-repeat;
+    background-size: cover;
+  }
+  
+  h1 {
+    font-size: 5em;
+    text-align:center;
+    color: white;
+   
+  }
+  
+  p {
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    }
+  
+  #image {
+    max-width: 50%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-size: 2em;
+    padding-top:0.5em;
+    margin-top: 0.6em;
+    padding-bottom:30px;
+    color: white;
+    
+  }
+  
+  #video {
+    width: 500px;
+    height: 300px;
+    margin: 25px auto 50px auto;
+    max-width: 100%;
+    display: block;
+  }
+  
+  h3 {
+    font-size: 2em;
+  }
+  
+  #tribute-info {
+    text-align: center;
+    font-size: 13px;
+    max-width:1000px;
+    margin: 0 auto 50px auto;
+    
+  }
+  
+  h2 {
+    margin-top: 100px;
+    text-align: center;
+  }
+  
+  #lyrics {
+    font-size: 13px
+  
+    } 
+  
+  .yellow {
+    
+    font-size: 30px;
+    color: #FFD700;
+    text-align: center;
+    padding: 40px 0px 20px 0px;
+    
+  }
+  
+  footer{
+    text-align: center;
+    padding-top: 6em;
+    padding-bottom: 7em;
+  }
+  
+  
+  
